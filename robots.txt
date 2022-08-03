@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://climatedl.github.io/sitemap.xml
