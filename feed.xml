@@ -3,7 +3,7 @@
     <title>ClimateDL</title>
     <link href="https://climatedl.github.io/feed.xml" rel="self" />
     <link href="https://climatedl.github.io" />
-    <updated>2022-08-03T16:35:50+02:00</updated>
+    <updated>2022-08-03T17:29:16+02:00</updated>
     <author>
         <name>Diego &amp; Pablo</name>
     </author>
@@ -70,17 +70,31 @@
         <link href="https://climatedl.github.io/workshop.html"/>
         <id>https://climatedl.github.io/workshop.html</id>
 
-        <updated>2022-08-03T16:10:32+02:00</updated>
+        <updated>2022-08-03T17:29:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/3/fing.jpeg" alt="" />
-                    The workshop will take place
+                    📍 Montevideo, Uruguay 📅 21-22th November 2022. Jointly with the 8th IEEE Latin American Conference on Computational Intelligence IEEE LA-CCI 2022 The event will&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://climatedl.github.io/media/posts/3/fing.jpeg" alt="" />
-                <p>The workshop will take place</p>
+                <p>📍 Montevideo, Uruguay<br>📅 21-22th November 2022. <span id="LC13" class="line" lang="markdown"><span class="idiff left addition">Jointly with the 8th IEEE Latin American Conference on Computational Intelligence </span><a href="https://la-cci.org/" target="_blank" rel="noopener noreferrer">IEEE LA-CCI 2022</a></span></p>
+<p class="msg msg--highlight "><span id="LC15" class="line" lang="markdown"><span class="idiff left right addition">The event will be held in person, but remote participation is also allowed for authors and participants.</span></span></p>
+<h2><span id="LC23" class="line" lang="markdown">Confirmed talks:</span></h2>
+<ul>
+<li><span id="LC25" class="line" lang="markdown">Seasonal forecast of extreme temperatures in Argentina using more traditional statistical methods". Dra. Soledad Collazo, Departamento de Ciencias de la Atmósfera y los Océanos - UBA/CONICET. Buenos Aires, Argentina.</span></li>
+<li><span id="LC26" class="line" lang="markdown">"Fallas geograficamente correlacionadas en redes eléctricas: el caso de las tormentas de hielo" (tesis junto a Gerardo Rubino). Javiera Barrera</span></li>
+<li><span id="LC27" class="line" lang="markdown">"Modelación de incertidumbre en generación de energías renovables y su impacto en el mercado eléctrico". Eduardo Moreno</span></li>
+<li><span id="LC28" class="line" lang="markdown">"Incorporación de incertidumbre en gestión de energía variable e intermitente con sistemas de almacenamiento". Rodrigo A. Carrasco.</span></li>
+<li><span id="LC29" class="line" lang="markdown">"Predicción de eventos climáticos extremos con técnicas de aprendizaje profundo espacio-temporales basadas en redes". Guillermo Pereira, Maestría en Ciencia de Datos Aplicada, FING/UDELAR. Montevideo, Uruguay.</span></li>
+</ul>
+<h2>Organizers</h2>
+<p><a href="https://www.fing.edu.uy/inco" target="_blank" rel="noopener noreferrer">Insituto de Computación</a></p>
+<p><a href="https://www.fing.edu.uy/" target="_blank" rel="noopener noreferrer">Facultad de Ingeniería</a></p>
+<p><a href="https://www.universidad.edu.uy" target="_blank" rel="noopener noreferrer">Universidad de la República</a></p>
+<p><img loading="lazy" src="https://climatedl.github.io/media/posts/3/logo-inco-300x300.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-lg.png 1024w"  alt="" width="135" height="135"><img loading="lazy" src="https://climatedl.github.io/media/posts/3/logo_FING_rgb-300x298.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-xs.jpg 300w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-sm.jpg 480w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-md.jpg 768w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-lg.jpg 1024w"  alt="" width="155" height="154"><img loading="lazy" src="https://climatedl.github.io/media/posts/3/logo_udelar_300x137.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-lg.png 1024w"  alt="" width="300" height="137"></p>
             ]]>
         </content>
     </entry>
