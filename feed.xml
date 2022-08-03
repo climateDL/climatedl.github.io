@@ -3,21 +3,22 @@
     <title>ClimateDL</title>
     <link href="https://climatedl.github.io/feed.xml" rel="self" />
     <link href="https://climatedl.github.io" />
-    <updated>2022-08-03T17:29:16+02:00</updated>
+    <updated>2022-08-03T17:44:52+02:00</updated>
     <author>
         <name>Diego &amp; Pablo</name>
     </author>
     <id>https://climatedl.github.io</id>
 
     <entry>
-        <title>Participants</title>
+        <title>Meet the current members</title>
         <author>
             <name>Diego &amp; Pablo</name>
         </author>
         <link href="https://climatedl.github.io/participants.html"/>
         <id>https://climatedl.github.io/participants.html</id>
+            <category term="Participants"/>
 
-        <updated>2022-08-03T16:35:50+02:00</updated>
+        <updated>2022-08-03T17:44:52+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/4/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt="" />
@@ -63,14 +64,15 @@
         </content>
     </entry>
     <entry>
-        <title>Workshop</title>
+        <title> November 2022 Montevideo, Uruguay</title>
         <author>
             <name>Diego &amp; Pablo</name>
         </author>
         <link href="https://climatedl.github.io/workshop.html"/>
         <id>https://climatedl.github.io/workshop.html</id>
+            <category term="Workshop"/>
 
-        <updated>2022-08-03T17:29:16+02:00</updated>
+        <updated>2022-08-03T17:44:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/3/fing.jpeg" alt="" />
