@@ -3,7 +3,7 @@
     <title>ClimateDL - models for seasonal forecasting of extreme temperature events</title>
     <link href="https://climatedl.github.io/feed.xml" rel="self" />
     <link href="https://climatedl.github.io" />
-    <updated>2022-08-03T12:44:52-03:00</updated>
+    <updated>2022-08-04T17:48:46-03:00</updated>
     <author>
         <name>Diego &amp; Pablo</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://climatedl.github.io/participants.html</id>
             <category term="Participants"/>
 
-        <updated>2022-08-03T12:44:52-03:00</updated>
+        <updated>2022-08-04T17:48:46-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/4/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt="" />
@@ -29,14 +29,15 @@
             <![CDATA[
                     <img src="https://climatedl.github.io/media/posts/4/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt="" />
                 <p dir="auto" data-sourcepos="7:1-7:79"> </p>
-<h1 dir="auto" data-sourcepos="9:1-9:11"><a aria-hidden="true" href="#argentina" class="anchor" id="user-content-argentina"></a>Argentina</h1>
+<h1 dir="auto" data-sourcepos="9:1-9:11"><a aria-hidden="true" href="#argentina" class="anchor" id="user-content-argentina"></a>Argentina  <figure class="post__image"><img loading="lazy"  src="https://climatedl.github.io/media/posts/4/Logo_exactas.svg.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/4/responsive/Logo_exactas.svg-xs.png 300w ,https://climatedl.github.io/media/posts/4/responsive/Logo_exactas.svg-sm.png 480w ,https://climatedl.github.io/media/posts/4/responsive/Logo_exactas.svg-md.png 768w ,https://climatedl.github.io/media/posts/4/responsive/Logo_exactas.svg-lg.png 1024w"  alt="" width="100" height="59"></figure></h1>
 <ul dir="auto" data-sourcepos="10:1-14:0">
 <li data-sourcepos="10:1-10:167">Matilde Rusticucci Departamento de Ciencias de la Atmósfera y los Océanos. Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Full Professor,</li>
 <li data-sourcepos="11:1-11:171">Mariana Barrucand Departamento de Ciencias de la Atmósfera y los Océanos. Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. Researcher (CONICET),</li>
 <li data-sourcepos="12:1-12:172">Soledad Collazo Departamento de Ciencias de la Atmósfera y los Océanos, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, post-doctoral researcher,</li>
 <li data-sourcepos="13:1-14:0">Solange Suli, Departamento de Ciencias de la Atmósfera y los Océanos, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, PhD Student (advisor: M.Rusticucci).</li>
 </ul>
-<h1 dir="auto" data-sourcepos="15:1-15:7"><a aria-hidden="true" href="#chile" class="anchor" id="user-content-chile"></a>Chile</h1>
+<p> </p>
+<h1 dir="auto" data-sourcepos="15:1-15:7"><a aria-hidden="true" href="#chile" class="anchor" id="user-content-chile"></a>Chile  <figure class="post__image"><img loading="lazy"  src="https://climatedl.github.io/media/posts/4/FIC_UAI.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/4/responsive/FIC_UAI-xs.jpg 300w ,https://climatedl.github.io/media/posts/4/responsive/FIC_UAI-sm.jpg 480w ,https://climatedl.github.io/media/posts/4/responsive/FIC_UAI-md.jpg 768w ,https://climatedl.github.io/media/posts/4/responsive/FIC_UAI-lg.jpg 1024w"  alt="" width="100" height="90"></figure></h1>
 <ul dir="auto" data-sourcepos="16:1-21:0">
 <li data-sourcepos="16:1-16:109">Rodrigo Carrasco, Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Associate Professor, </li>
 <li data-sourcepos="17:1-17:104">Javiera Barrera, Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Associate Professor,</li>
@@ -44,14 +45,16 @@
 <li data-sourcepos="19:1-19:118">Dora Jiménez, Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Ph.D. Student (advisor: J. Barrera),</li>
 <li data-sourcepos="20:1-21:0">Jorge Jenschke Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Msc. student (co-advisors: J. Barrera and G. Rubino).</li>
 </ul>
-<h1 dir="auto" data-sourcepos="22:1-22:8"><a aria-hidden="true" href="#france" class="anchor" id="user-content-france"></a>France</h1>
+<p> </p>
+<h1 dir="auto" data-sourcepos="22:1-22:8"><a aria-hidden="true" href="#france" class="anchor" id="user-content-france"></a>France   <figure class="post__image"><img loading="lazy"  src="https://climatedl.github.io/media/posts/4/Inr_logo_fr_rouge.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/4/responsive/Inr_logo_fr_rouge-xs.png 300w ,https://climatedl.github.io/media/posts/4/responsive/Inr_logo_fr_rouge-sm.png 480w ,https://climatedl.github.io/media/posts/4/responsive/Inr_logo_fr_rouge-md.png 768w ,https://climatedl.github.io/media/posts/4/responsive/Inr_logo_fr_rouge-lg.png 1024w"  alt="" width="100" height="44"></figure></h1>
 <ul dir="auto" data-sourcepos="23:1-27:0">
 <li data-sourcepos="23:1-23:75">Yassine Hadjadj-Aoul, Assistant professor, University of Rennes 1, INRIA,</li>
 <li data-sourcepos="24:1-24:43">Gerardo Rubino, Senior Researcher, INRIA,</li>
 <li data-sourcepos="25:1-25:132">Sebastián Basterrech, researcher, VŠB-Technical University of Ostrava, Czech Republic, and scientific collaborator of Dionysos,</li>
 <li data-sourcepos="26:1-27:0">Anouar Rkhami, PhD student (co-advisors: Y. Hadjadj-Aoul and G. Rubino).</li>
 </ul>
-<h1 dir="auto" data-sourcepos="28:1-28:9"><a aria-hidden="true" href="#uruguay" class="anchor" id="user-content-uruguay"></a>Uruguay</h1>
+<p> </p>
+<h1 dir="auto" data-sourcepos="28:1-28:9"><a aria-hidden="true" href="#uruguay" class="anchor" id="user-content-uruguay"></a>Uruguay   <figure class="post__image"><img loading="lazy"  src="https://climatedl.github.io/media/posts/4/logo_FING_rgb-300x298-xs.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/4/responsive/logo_FING_rgb-300x298-xs-xs.jpg 300w ,https://climatedl.github.io/media/posts/4/responsive/logo_FING_rgb-300x298-xs-sm.jpg 480w ,https://climatedl.github.io/media/posts/4/responsive/logo_FING_rgb-300x298-xs-md.jpg 768w ,https://climatedl.github.io/media/posts/4/responsive/logo_FING_rgb-300x298-xs-lg.jpg 1024w"  alt="" width="100" height="99"></figure></h1>
 <ul dir="auto" data-sourcepos="29:1-34:0">
 <li data-sourcepos="29:1-29:80">Pablo Rodríguez Bocca, Universidad de la República (UDELAR), full professor,</li>
 <li data-sourcepos="30:1-30:134">Madeleine Renom, Departamento de Ciencias de la Atmósfera, Instituto de Física, Facultad de Ciencias, UDELAR, associate professor,</li>
@@ -72,31 +75,33 @@
         <id>https://climatedl.github.io/workshop.html</id>
             <category term="Workshop"/>
 
-        <updated>2022-08-03T12:44:14-03:00</updated>
+        <updated>2022-08-04T17:12:44-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://climatedl.github.io/media/posts/3/fing.jpeg" alt="" />
-                    📍 Montevideo, Uruguay 📅 21-22th November 2022. Jointly with the 8th IEEE Latin American Conference on Computational Intelligence IEEE LA-CCI 2022 The event will&hellip;
+                        <img src="https://climatedl.github.io/media/posts/3/fing_banner.jpg" alt="" />
+                    📍 Montevideo, Uruguay 📅 21-22th November 2022 Jointly with the 8th IEEE Latin American Conference on Computational Intelligence IEEE LA-CCI 2022 The event will&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://climatedl.github.io/media/posts/3/fing.jpeg" alt="" />
-                <p>📍 Montevideo, Uruguay<br>📅 21-22th November 2022. <span id="LC13" class="line" lang="markdown"><span class="idiff left addition">Jointly with the 8th IEEE Latin American Conference on Computational Intelligence </span><a href="https://la-cci.org/" target="_blank" rel="noopener noreferrer">IEEE LA-CCI 2022</a></span></p>
+                    <img src="https://climatedl.github.io/media/posts/3/fing_banner.jpg" alt="" />
+                <p>📍 Montevideo, Uruguay<br>📅 21-22th November 2022</p>
+<p><span id="LC13" class="line" lang="markdown"><span class="idiff left addition">Jointly with the 8th IEEE Latin American Conference on Computational Intelligence </span><a href="https://la-cci.org/" target="_blank" rel="noopener noreferrer">IEEE LA-CCI 2022 </a></span></p>
+<figure class="post__image post__image--center"><span id="LC13" class="line" lang="markdown"><span class="idiff left addition"><img loading="lazy"  src="https://climatedl.github.io/media/posts/3/logo-LACCI2022-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo-LACCI2022-3-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo-LACCI2022-3-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo-LACCI2022-3-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo-LACCI2022-3-lg.png 1024w"  alt="" width="169" height="205"></figure></span></span></p>
 <p class="msg msg--highlight "><span id="LC15" class="line" lang="markdown"><span class="idiff left right addition">The event will be held in person, but remote participation is also allowed for authors and participants.</span></span></p>
 <h2><span id="LC23" class="line" lang="markdown">Confirmed talks:</span></h2>
 <ul>
-<li><span id="LC25" class="line" lang="markdown">Seasonal forecast of extreme temperatures in Argentina using more traditional statistical methods". Dra. Soledad Collazo, Departamento de Ciencias de la Atmósfera y los Océanos - UBA/CONICET. Buenos Aires, Argentina.</span></li>
-<li><span id="LC26" class="line" lang="markdown">"Fallas geograficamente correlacionadas en redes eléctricas: el caso de las tormentas de hielo" (tesis junto a Gerardo Rubino). Javiera Barrera</span></li>
-<li><span id="LC27" class="line" lang="markdown">"Modelación de incertidumbre en generación de energías renovables y su impacto en el mercado eléctrico". Eduardo Moreno</span></li>
-<li><span id="LC28" class="line" lang="markdown">"Incorporación de incertidumbre en gestión de energía variable e intermitente con sistemas de almacenamiento". Rodrigo A. Carrasco.</span></li>
-<li><span id="LC29" class="line" lang="markdown">"Predicción de eventos climáticos extremos con técnicas de aprendizaje profundo espacio-temporales basadas en redes". Guillermo Pereira, Maestría en Ciencia de Datos Aplicada, FING/UDELAR. Montevideo, Uruguay.</span></li>
+<li><span id="LC25" class="line" lang="markdown"><strong><em>"Seasonal forecast of extreme temperatures in Argentina using more traditional statistical methods"</em></strong>. </span><span id="LC25" class="line" lang="markdown">Dra. Soledad Collazo, Departamento de Ciencias de la Atmósfera y los Océanos - UBA/CONICET. Buenos Aires, Argentina.</span></li>
+<li><span id="LC26" class="line" lang="markdown"><strong><em>"Fallas geograficamente correlacionadas en redes eléctricas: el caso de las tormentas de hielo"</em></strong>. <span id="LC27" class="line" lang="markdown">PhD. </span>Javiera Barrera, Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Associate Professor.</span></li>
+<li><span id="LC27" class="line" lang="markdown"><strong><em>"Modelación de incertidumbre en generación de energías renovables y su impacto en el mercado eléctrico"</em></strong>. PhD. Eduardo Moreno, Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Full Professor.</span></li>
+<li><span id="LC28" class="line" lang="markdown"><strong><em>"Incorporación de incertidumbre en gestión de energía variable e intermitente con sistemas de almacenamiento"</em></strong>. <span id="LC27" class="line" lang="markdown">PhD. </span>Rodrigo A. Carrasco. Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Associate Professor.</span></li>
+<li><span id="LC29" class="line" lang="markdown"><strong><em>"Predicción de eventos climáticos extremos con técnicas de aprendizaje profundo espacio-temporales basadas en redes"</em></strong>. Lic. Ec. Guillermo Pereira, Maestría en Ciencia de Datos Aplicada, FING/UDELAR. Montevideo, Uruguay.</span></li>
 </ul>
 <h2>Organizers</h2>
 <p><a href="https://www.fing.edu.uy/inco" target="_blank" rel="noopener noreferrer">Insituto de Computación</a></p>
 <p><a href="https://www.fing.edu.uy/" target="_blank" rel="noopener noreferrer">Facultad de Ingeniería</a></p>
 <p><a href="https://www.universidad.edu.uy" target="_blank" rel="noopener noreferrer">Universidad de la República</a></p>
-<p><img loading="lazy" src="https://climatedl.github.io/media/posts/3/logo-inco-300x300.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-lg.png 1024w"  alt="" width="135" height="135"><img loading="lazy" src="https://climatedl.github.io/media/posts/3/logo_FING_rgb-300x298.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-xs.jpg 300w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-sm.jpg 480w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-md.jpg 768w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-lg.jpg 1024w"  alt="" width="155" height="154"><img loading="lazy" src="https://climatedl.github.io/media/posts/3/logo_udelar_300x137.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-lg.png 1024w"  alt="" width="300" height="137"></p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://climatedl.github.io/media/posts/3/logo-inco-300x300.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo-inco-300x300-lg.png 1024w"  alt="" width="80" height="80"></figure><figure class="post__image post__image--left"><img loading="lazy"  src="https://climatedl.github.io/media/posts/3/logo_FING_rgb-300x298.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-xs.jpg 300w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-sm.jpg 480w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-md.jpg 768w ,https://climatedl.github.io/media/posts/3/responsive/logo_FING_rgb-300x298-lg.jpg 1024w"  alt="" width="80" height="80"></figure><figure class="post__image post__image--left"><img loading="lazy"  src="https://climatedl.github.io/media/posts/3/logo_udelar_300x137.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-xs.png 300w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-sm.png 480w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-md.png 768w ,https://climatedl.github.io/media/posts/3/responsive/logo_udelar_300x137-lg.png 1024w"  alt="" width="175" height="80"></figure>
             ]]>
         </content>
     </entry>
