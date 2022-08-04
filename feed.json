@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ClimateDL",
+    "title": "ClimateDL - models for seasonal forecasting of extreme temperature events",
     "description": "",
     "home_page_url": "https://climatedl.github.io",
     "feed_url": "https://climatedl.github.io/feed.json",
@@ -22,8 +22,8 @@
             "tags": [
                    "Participants"
             ],
-            "date_published": "2022-08-03T16:35:50+02:00",
-            "date_modified": "2022-08-03T17:44:52+02:00"
+            "date_published": "2022-08-03T11:35:50-03:00",
+            "date_modified": "2022-08-03T12:44:52-03:00"
         },
         {
             "id": "https://climatedl.github.io/workshop.html",
@@ -38,8 +38,8 @@
             "tags": [
                    "Workshop"
             ],
-            "date_published": "2022-08-03T16:10:32+02:00",
-            "date_modified": "2022-08-03T17:44:14+02:00"
+            "date_published": "2022-08-03T11:10:32-03:00",
+            "date_modified": "2022-08-03T12:44:14-03:00"
         },
         {
             "id": "https://climatedl.github.io/about.html",
@@ -53,8 +53,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-08-03T16:00:00+02:00",
-            "date_modified": "2022-08-03T16:31:29+02:00"
+            "date_published": "2022-08-03T11:00:00-03:00",
+            "date_modified": "2022-08-03T11:31:29-03:00"
         }
     ]
 }

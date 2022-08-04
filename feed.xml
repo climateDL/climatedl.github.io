@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>ClimateDL</title>
+    <title>ClimateDL - models for seasonal forecasting of extreme temperature events</title>
     <link href="https://climatedl.github.io/feed.xml" rel="self" />
     <link href="https://climatedl.github.io" />
-    <updated>2022-08-03T17:44:52+02:00</updated>
+    <updated>2022-08-03T12:44:52-03:00</updated>
     <author>
         <name>Diego &amp; Pablo</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://climatedl.github.io/participants.html</id>
             <category term="Participants"/>
 
-        <updated>2022-08-03T17:44:52+02:00</updated>
+        <updated>2022-08-03T12:44:52-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/4/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt="" />
@@ -72,7 +72,7 @@
         <id>https://climatedl.github.io/workshop.html</id>
             <category term="Workshop"/>
 
-        <updated>2022-08-03T17:44:14+02:00</updated>
+        <updated>2022-08-03T12:44:14-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/3/fing.jpeg" alt="" />
@@ -108,7 +108,7 @@
         <link href="https://climatedl.github.io/about.html"/>
         <id>https://climatedl.github.io/about.html</id>
 
-        <updated>2022-08-03T16:31:29+02:00</updated>
+        <updated>2022-08-03T11:31:29-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://climatedl.github.io/media/posts/2/ryan-schroeder-Gg7uKdHFb_c-unsplash.jpg" alt="" />
